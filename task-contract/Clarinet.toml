@@ -7,6 +7,8 @@ cache_dir = '.\.cache'
 requirements = []
 [contracts.task-bidding]
 path = 'contracts/task-bidding.clar'
+[contracts.Task-creation]
+path = 'contracts/Task-creation.clar
 clarity_version = 3
 epoch = 3.0
 [repl.analysis]
