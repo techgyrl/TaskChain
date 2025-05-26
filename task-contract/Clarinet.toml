@@ -11,6 +11,11 @@ path = 'contracts/task-bidding.clar'
 path = 'contracts/Task-creation.clar
 clarity_version = 3
 epoch = 3.0
+
+[contracts.escrow-payment]
+path = 'contracts/escrow-payment.clar'
+clarity_version = 3
+epoch = 3.0
 [repl.analysis]
 passes = ['check_checker']
 
