@@ -5,10 +5,8 @@ authors = []
 telemetry = true
 cache_dir = '.\.cache'
 requirements = []
-[contracts.task-bidding]
-path = 'contracts/task-bidding.clar'
 [contracts.Task-creation]
-path = 'contracts/Task-creation.clar' 
+path = 'contracts/Task-creation.clar'
 clarity_version = 3
 epoch = 3.0
 
@@ -16,6 +14,16 @@ epoch = 3.0
 path = 'contracts/escrow-payment.clar'
 clarity_version = 3
 epoch = 3.0
+
+[contracts.mutual-approval-escrow]
+path = 'contracts/mutual-approval-escrow.clar'
+clarity_version = 3
+epoch = 3.0
+
+[contracts.task-bidding]
+path = 'contracts/task-bidding.clar'
+clarity_version = 1
+epoch = 2.05
 [repl.analysis]
 passes = ['check_checker']
 
