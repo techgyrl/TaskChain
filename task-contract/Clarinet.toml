@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = '.\.cache'
 requirements = []
+[contracts.Reputation-System]
+path = 'contracts/Reputation-System.clar'
+clarity_version = 3
+epoch = 3.0
+
 [contracts.Task-creation]
 path = 'contracts/Task-creation.clar'
 clarity_version = 3
