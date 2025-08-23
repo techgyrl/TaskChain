@@ -138,14 +138,3 @@ We welcome community contributions!
 - Create a feature branch
 - Submit a pull request with clear documentation
 
----
-
-## 📬 Contact
-
-- Website: [taskchain.xyz](https://taskchain.xyz) *(placeholder)*
-- Discord: [Join Our Community](https://discord.gg/taskchain)
-- Twitter: [@TaskChainDApp](https://twitter.com/TaskChainDApp)
-
----
-
-Would you like a diagram of how the smart contract flow works within the TaskChain platform?
